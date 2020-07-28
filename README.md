@@ -9,6 +9,6 @@ Employee attrition is a major cost to an organization and predicting such attrit
 ## Evaluation Criteria
 The evaluation metric that is used for this problem is the root mean squared error.
 ## LeaderBoard
-No. of Registered :5164
+No. of Registered : 5164
 
 https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-employee-attrition-rate/leaderboard/
